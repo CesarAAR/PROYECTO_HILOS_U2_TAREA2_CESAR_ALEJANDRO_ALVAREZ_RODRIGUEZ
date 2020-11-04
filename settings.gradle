@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PROYECTO_HILOS_U2_TAREA2_CESAR_ALEJANDRO_ALVAREZ_RODRIGUEZ"
